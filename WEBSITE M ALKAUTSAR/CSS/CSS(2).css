@@ -1,0 +1,86 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height:1.6;
+    margin:0;
+    padding:0;
+}
+
+header, footer{
+    background-color:#4A4947 ;
+    color: #E8B86D;
+    text-align: left;
+    padding: 2em 0;
+    border: 3px solid  #E8B86D;
+}
+
+nav{
+    background-color: #4A4947 ;
+    border: 1px solid #E8B86D;
+    padding:0em;
+}
+
+nav ul{
+    list-style: none;
+    padding: 1px;;
+}
+
+nav ul li{
+    display:inline;
+    margin-right:10px;
+}
+
+nav ul li a{
+    text-decoration: none;color: white;
+}
+
+li:hover{
+    background-color: #4A4947;
+    color:#E8B86D;
+}
+
+
+.container{
+    background-color:   #705C53;
+    border-radius: 40px;
+    color: #E8B86D;
+}
+
+
+.VisiMisiSekolah{
+    background-color: #4A4947;
+    color: #E8B86D;
+    height: 400px;
+    border: 2px solid  #E8B86D;
+}
+
+.HymneSekolah{
+    background-color: #4A4947;
+    color: #E8B86D;
+    height: 400px;
+    border: 2px solid  #E8B86D;
+}
+
+.LogoSekolah{
+    background-color: #4A4947;
+    color: #E8B86D;
+    height: 500px;
+    border: 2px solid  #E8B86D;
+}
+
+.DenahLokasi{
+    background-color: #4A4947;
+    color: #E8B86D;
+    height: 350px;
+    border: 1px solid  #E8B86D;
+}
+
+footer{
+    border: 1px solid  #E8B86D;
+    text-align: center;
+}
+
+.content{
+    width: 550px;
+    text-align: justify;
+    margin-left: 800px;
+}

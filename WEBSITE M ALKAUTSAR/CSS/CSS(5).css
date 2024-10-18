@@ -1,0 +1,114 @@
+sbody{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height:1.6;
+    margin:0;
+    padding:0;
+}
+
+header, footer{
+    background-color:#4A4947 ;
+    color: #E8B86D;
+    text-align: left;
+    padding: 2em 0;
+    border: 3px solid  #E8B86D;
+}
+
+nav{
+    background-color: #4A4947 ;
+    border: 1px solid #E8B86D;
+    padding:0em;
+}
+
+nav ul{
+    list-style: none;
+    padding: 1px;;
+}
+
+nav ul li{
+    display:inline;
+    margin-right:10px;
+}
+
+nav ul li a{
+    text-decoration: none;color: white;
+}
+
+li:hover{
+    background-color: #4A4947;
+    color:#E8B86D;
+}
+
+.Alumni1{
+    background-color: #4A4947;
+    color: #E8B86D;
+    height: 700px;
+    border: 1px solid  #4A4947;
+}
+
+.Alumni2{
+    background-color: #4A4947;
+    color: #E8B86D;
+    height: 700px;
+    border: 1px solid  #4A4947;
+}
+
+.Alumni3{
+    background-color: #4A4947;
+    color: #E8B86D;
+    height: 700px;
+    border: 1px solid  #4A4947;
+}
+
+.Alumni4{
+    background-color: #4A4947;
+    color: #E8B86D;
+    height: 700px;
+    border: 1px solid  #4A4947;
+}
+
+.Alumni5{
+    background-color: #4A4947;
+    color: #E8B86D;
+    height: 700px;
+    border: 1px solid  #4A4947;
+}
+
+.Alumni6{
+    background-color: #4A4947;
+    color: #E8B86D;
+    height: 700px;
+    border: 1px solid  #4A4947;
+}
+
+.Alumni7{
+    background-color: #4A4947;
+    color: #E8B86D;
+    height: 700px;
+    border: 1px solid  #4A4947;
+}
+
+.Alumni8{
+    background-color: #4A4947;
+    color: #E8B86D;
+    height: 700px;
+    border: 1px solid  #4A4947;
+}
+
+.Next{
+    background-color: #4A4947;
+    color: #E8B86D;
+    height: 100px;
+    border: 1px solid  #4A4947;
+}
+
+.DenahLokasi{
+    background-color: #4A4947;
+    color: #E8B86D;
+    height: 350px;
+    border: 1px solid  #E8B86D;
+}
+
+footer{
+    border: 1px solid  #E8B86D;
+    text-align: center;
+}

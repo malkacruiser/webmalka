@@ -1,0 +1,66 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height:1.6;
+    margin:0;
+    padding:0;
+}
+
+header, footer{
+    background-color:#4A4947 ;
+    color: #E8B86D;
+    text-align: left;
+    padding: 2em 0;
+    border: 3px solid  #E8B86D;
+}
+
+nav{
+    background-color: #4A4947 ;
+    border: 1px solid #E8B86D;
+    padding:0em;
+}
+
+nav ul{
+    list-style: none;
+    padding: 1px;;
+}
+
+nav ul li{
+    display:inline;
+    margin-right:10px;
+}
+
+nav ul li a{
+    text-decoration: none;color: white;
+}
+
+li:hover{
+    background-color: #4A4947;
+    color:#E8B86D;
+}
+
+.ekskul{
+    background-color: #4A4947;
+    color: #E8B86D;
+    height: 1500px;
+    border: 1px solid  #4A4947;
+    text-align: left;
+}
+
+.pengertian{
+    text-align: center;
+    border: 1px solid black;
+    height: 700px;
+    width: 1590px;
+    float: left;
+}
+.DenahLokasi{
+    background-color: #4A4947;
+    color: #E8B86D;
+    height: 350px;
+    border: 1px solid  #E8B86D;
+}
+
+footer{
+    border: 1px solid  #E8B86D;
+    text-align: center;
+}
